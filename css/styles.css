@@ -1,0 +1,14 @@
+#kolom{
+}
+#divlogin{
+	display: table;
+	width: 100%;
+}
+#form_login{
+	padding-top: 0;
+}
+#wraping{
+	word-wrap: break-word;
+	min-width: 100px;
+	max-width: 200px;
+}

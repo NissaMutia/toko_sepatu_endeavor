@@ -1,0 +1,20 @@
+#bg{
+	background-image: url("../img/pattern.jpg");
+	background-repeat: repeat;
+}
+#coba{
+	border-color: maroon;
+}
+
+.btnaja, .btnaja:hover{
+	background-color:#303030;
+
+}
+
+.btna{
+	background-color: #343a40;
+	border-color:#dc3545; 
+}
+.btna:hover{
+	background-color: #dc3545;
+}

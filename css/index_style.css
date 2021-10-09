@@ -1,0 +1,22 @@
+#wraping{
+	word-wrap: break-word;
+	min-width: 275px;
+	max-width: 275px;
+	text-align: center;
+}
+#bg{
+		background-image: url("../img/pattern.jpg");
+		background-repeat: repeat;
+}
+#marginin{
+	margin-top: 30px;
+}
+
+#card{
+	border-color: maroon;
+}
+
+.btn-outline:hover{
+	border-color: maroon;
+	background-color: #F9C889;
+}
